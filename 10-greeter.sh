@@ -4,7 +4,7 @@
 
 function weekend_greet 
 {
-   echo "Enjoy the weekend! Study Hard! ${1} ${2}!"
+   echo "Enjoy the weekend! Study Hard! Hope Assignment 6 works out ${1} ${2}!"
 }
 
 function weekday_greet
